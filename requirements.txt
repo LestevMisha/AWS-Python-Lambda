@@ -1,0 +1,4 @@
+chess
+pandas
+python-telegram-bot
+cairosvg
